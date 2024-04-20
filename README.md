@@ -12,7 +12,7 @@ I am excited to continue my studies in computer science and AI, and to explore t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksai07&label=Profile%20views&color=0e75b6&style=flat" alt="viveksai07" /> </p>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UnxuXPbLp-69W42aXF3LntwaMF2PWthd/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11acoLp5A1XYB6jlkyKH2SmO6O5JGH9g-/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
