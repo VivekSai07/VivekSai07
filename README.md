@@ -21,7 +21,7 @@ I am excited to continue my studies in computer science and AI, and to explore t
 <a href="https://linkedin.com/in/vivek sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek sai" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vivek_sai____?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_sai___" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/viveksai0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viveksai0707" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/tekumudi vivek sai surya chaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tekumudi vivek sai surya chaitanya" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/tekumudi vivek sai surya chaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tekumudi vivek sai surya chaitanya" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
