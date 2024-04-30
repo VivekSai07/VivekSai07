@@ -9,7 +9,6 @@ My interest in robotics has led me to explore the ways in which AI can be used t
 I am excited to continue my studies in computer science and AI, and to explore the many possibilities that the field of robotics has to offer. I am also looking forward to the opportunity to work on projects and conduct research that will allow me to further develop my skills and knowledge in the field of AI and robotics.
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksai07&label=Profile%20views&color=0e75b6&style=flat" alt="viveksai07" /> </p>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11acoLp5A1XYB6jlkyKH2SmO6O5JGH9g-/view?usp=sharing)
