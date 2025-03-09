@@ -32,3 +32,4 @@ I am excited to continue my studies in computer science and AI, and to explore t
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VivekSai07&show_icons=true&locale=en" alt="VivekSai07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSai07&" alt="VivekSai07" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VivekSai07&" alt="VivekSai07" /></p>
