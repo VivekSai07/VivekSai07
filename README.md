@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Sai</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
+<h3 align="center">A passionate Robotics & AI Enthusiast from Stuttgart, Germany.</h3>
 
 ## 🚀 About Me
 As a computer science student with a specialization in AI, I have gained a solid understanding of the fundamental concepts and techniques of AI, such as machine learning, deep learning, natural language processing, and computer vision. I have also had the opportunity to work on various projects and assignments that have allowed me to apply my knowledge and skills in real-world scenarios.
