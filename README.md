@@ -2,24 +2,22 @@
 <h3 align="center">A passionate Robotics & AI Enthusiast from Stuttgart, Germany.</h3>
 
 ## 🚀 About Me
-As a computer science student with a specialization in AI, I have gained a solid understanding of the fundamental concepts and techniques of AI, such as machine learning, deep learning, natural language processing, and computer vision. I have also had the opportunity to work on various projects and assignments that have allowed me to apply my knowledge and skills in real-world scenarios.
+As a Master’s student in Computer Science (Autonomous Systems) at the University of Stuttgart, I am passionate about bridging artificial intelligence and robotics to create systems that interact intelligently with the real world. My academic and project experience have given me a strong foundation in machine learning, computer vision, and robot control, as well as practical exposure to ROS-based systems and perception-driven automation.
 
-My interest in robotics has led me to explore the ways in which AI can be used to make robots more intelligent, efficient, and autonomous. I am particularly interested in the application of AI in areas such as perception, localization, and navigation, as well as in the development of intelligent control systems for robots.
+Over the past year, I have worked extensively with the Franka Research 3 (FR3) collaborative robot, developing a vision-guided assembly pipeline that integrates camera-based perception, pose estimation, and synchronized multi-robot control. Alongside this, I have built simulation and control projects in ROS, Gazebo, and MATLAB, covering topics such as differential drive mapping, biped locomotion, and dynamic control strategies.
 
-I am excited to continue my studies in computer science and AI, and to explore the many possibilities that the field of robotics has to offer. I am also looking forward to the opportunity to work on projects and conduct research that will allow me to further develop my skills and knowledge in the field of AI and robotics.
-
+My primary interests lie in robot perception, motion planning, and human–robot interaction, and I am eager to explore how AI-driven methods can enhance robotic autonomy, adaptability, and collaboration. I aspire to contribute to cutting-edge robotic research and development, whether in innovative startups or established companies such as Franka Robotics, Neura Robotics, KUKA, or ABB, while continuously learning new technologies and refining my technical and research skills.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksai07&label=Profile%20views&color=0e75b6&style=flat" alt="viveksai07" /> </p>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11acoLp5A1XYB6jlkyKH2SmO6O5JGH9g-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/100ASiH-YpZPtIgrZWnRVemSBunrSxf93/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/viveksai07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viveksai07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vivek sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek sai" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vivek_sai____?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_sai___" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/viveksai0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viveksai0707" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/vivek sai](https://www.linkedin.com/in/vivek-sai-5b363221a/ )" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek sai" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/vivek_sai____?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_sai___" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/viveksai0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viveksai0707" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerearth.com/tekumudi vivek sai surya chaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tekumudi vivek sai surya chaitanya" height="30" width="40" /></a> -->
 </p>
 
