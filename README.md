@@ -134,6 +134,16 @@ A MATLAB simulation of a multi-joint robotic arm using Denavit-Hartenberg (DH) p
 
 ---
 
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivekSai07/VivekSai07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivekSai07/VivekSai07/output/github-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/VivekSai07/VivekSai07/output/github-snake.svg" />
+</picture>
+
+---
+
 <p align="center">
   Open to research collaborations, full-time robotics engineering roles, and interesting open-source projects.<br/>
   <a href="https://www.linkedin.com/in/vivek-sai-5b363221a/">Connect on LinkedIn</a> ·
