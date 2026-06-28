@@ -1,33 +1,141 @@
-<h1 align="center">Hi 👋, I'm Vivek Sai</h1>
-<h3 align="center">A passionate Robotics & AI Enthusiast from Stuttgart, Germany.</h3>
+<h1 align="center">Vivek Sai</h1>
 
-## 🚀 About Me
-As a Master’s student in Computer Science (Autonomous Systems) at the University of Stuttgart, I am passionate about bridging artificial intelligence and robotics to create systems that interact intelligently with the real world. My academic and project experience have given me a strong foundation in machine learning, computer vision, and robot control, as well as practical exposure to ROS-based systems and perception-driven automation.
-
-Over the past year, I have worked extensively with the Franka Research 3 (FR3) collaborative robot, developing a vision-guided assembly pipeline that integrates camera-based perception, pose estimation, and synchronized multi-robot control. Alongside this, I have built simulation and control projects in ROS, Gazebo, and MATLAB, covering topics such as differential drive mapping, biped locomotion, and dynamic control strategies.
-
-My primary interests lie in robot perception, motion planning, and human–robot interaction, and I am eager to explore how AI-driven methods can enhance robotic autonomy, adaptability, and collaboration. I aspire to contribute to cutting-edge robotic research and development, whether in innovative startups or established companies such as Franka Robotics, Neura Robotics, KUKA, or ABB, while continuously learning new technologies and refining my technical and research skills.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksai07&label=Profile%20views&color=0e75b6&style=flat" alt="viveksai07" /> </p>
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/100ASiH-YpZPtIgrZWnRVemSBunrSxf93/view?usp=sharing)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/vivek sai](https://www.linkedin.com/in/vivek-sai-5b363221a/ )" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek sai" height="30" width="40" /></a>
-<!-- <a href="https://www.instagram.com/vivek_sai____?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_sai___" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/viveksai0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viveksai0707" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerearth.com/tekumudi vivek sai surya chaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tekumudi vivek sai surya chaitanya" height="30" width="40" /></a> -->
+<p align="center">
+  <strong>Robotics &amp; AI Engineer · Stuttgart, Germany</strong><br/>
+  M.Sc. Computer Science (Autonomous Systems) · University of Stuttgart
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivek-sai-5b363221a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://drive.google.com/file/d/100ASiH-YpZPtIgrZWnRVemSBunrSxf93/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=viveksai07&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VivekSai07&show_icons=true&locale=en&layout=compact" alt="VivekSai07" /></p>
+## About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VivekSai07&show_icons=true&locale=en" alt="VivekSai07" /></p>
+I am a Master's student in Computer Science (Autonomous Systems) at the University of Stuttgart, focused on building robotic systems that are perception-driven, reliable, and deployable in real environments. My work sits at the intersection of robot perception, motion planning, and AI — with hands-on experience taking projects from simulation through to hardware execution.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSai07&" alt="VivekSai07" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VivekSai07&" alt="VivekSai07" /></p>
+Over the past year I have been working extensively with the **Franka Research 3 (FR3)** collaborative robot, developing a vision-guided manipulation pipeline that integrates multi-camera point-cloud fusion, Contact-GraspNet pose estimation, MuJoCo simulation, and differential IK execution. I have iterated this pipeline using a structured benchmark harness, improving grasp success rates from 38% to 90%+.
+
+My technical interests include:
+
+- **Robot Perception** — 3D LiDAR odometry, visual SLAM, point-cloud processing
+- **Manipulation & Grasping** — grasp pose estimation, motion planning, sim-to-real transfer
+- **Locomotion** — quadruped control, legged robot simulation (MuJoCo, ROS 2)
+- **AI/ML for Robotics** — vision-language models, multimodal retrieval, deep learning for perception
+
+I aim to contribute to serious robotics engineering efforts, whether in research or industry.
+
+---
+
+## Featured Projects
+
+### ContactPilot — Grasp-and-Place Pipeline for Franka FR3
+A production-quality pick-and-place pipeline for the Franka Panda robot that combines:
+- **Contact-GraspNet** for 6-DoF grasp pose estimation from point clouds
+- **Multi-camera point-cloud fusion** for robust scene representation
+- **MuJoCo simulation** for policy validation before hardware deployment
+- **Differential IK execution** for smooth, collision-aware motion
+- A **benchmark harness** used to iteratively tune the pipeline from 38% to 90%+ grasp success
+
+> `Python · MuJoCo · Contact-GraspNet · ROS 2 · PyTorch`
+
+---
+
+### AMR Odometry — MAD-ICP-Inspired 3D LiDAR Odometry (ROS 2)
+An Eigen-only core odometry library with a ROS 2 Humble wrapper, supporting both offline and live RViz evaluation. Validated on a **Boston Dynamics SPOT** robot and handheld LiDAR hardware. Includes Docker support for reproducible deployment.
+
+> `C++ · Eigen · ROS 2 Humble · Docker · LiDAR`
+
+---
+
+### Quadruped Manipulation — MuJoCo
+Simulation and control stack for a quadruped robot performing manipulation tasks in MuJoCo. Explores locomotion stability combined with arm-based interaction tasks.
+
+> `Python · MuJoCo · Pinocchio`
+
+---
+
+### Autonomous Indoor Delivery Robot
+End-to-end autonomous navigation stack for indoor environments, covering mapping, localization, and task-level autonomy.
+
+> `Python · ROS · Navigation Stack`
+
+---
+
+### Distributed Systems Chat Application
+A fault-tolerant, decentralized chat application built from distributed systems fundamentals — message reliability, causal ordering, leader election, and dynamic scalability.
+
+> `Python · Distributed Systems`
+
+---
+
+### Differential Drive Robot Simulation
+A differential drive robot modeled in Fusion 360, exported to URDF, and simulated in Gazebo with full ROS control integration — including teleoperation and sensor integration.
+
+> `ROS · Gazebo · URDF · CMake`
+
+---
+
+### Pythonic LiDAR Simulation
+A LiDAR sensor simulated from scratch in Python — covering ray casting, distance measurement, and 2D map rendering — built to understand the underlying physics before using off-the-shelf libraries.
+
+> `Python · Sensor Simulation`
+
+---
+
+### Robotic Arm Kinematics — MATLAB 3D Simulation
+A MATLAB simulation of a multi-joint robotic arm using Denavit-Hartenberg (DH) parameters, covering forward kinematics, workspace visualization, and trajectory planning.
+
+> `MATLAB · Robotics · Kinematics`
+
+---
+
+## Technical Skills
+
+| Domain | Technologies |
+|---|---|
+| **Languages** | Python, C++, MATLAB, Java |
+| **Robotics Frameworks** | ROS (Noetic), ROS 2 (Humble), MuJoCo, Gazebo, Pinocchio |
+| **Perception & CV** | OpenCV, Open3D, MediaPipe, Point Cloud Processing |
+| **ML / Deep Learning** | PyTorch, TensorFlow, scikit-learn, Contact-GraspNet |
+| **Data & Analysis** | Pandas, NumPy, Seaborn, Matplotlib |
+| **DevOps & Tools** | Git, Docker, Linux, CMake |
+| **Databases** | PostgreSQL, MongoDB, MySQL |
+| **Web / Backend** | Flask, HTML, JavaScript |
+| **Hardware** | Franka FR3, Boston Dynamics SPOT, Arduino |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekSai07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VivekSai07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSai07&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VivekSai07&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekSai07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+<p align="center">
+  Open to research collaborations, full-time robotics engineering roles, and interesting open-source projects.<br/>
+  <a href="https://www.linkedin.com/in/vivek-sai-5b363221a/">Connect on LinkedIn</a> ·
+  <a href="https://drive.google.com/file/d/100ASiH-YpZPtIgrZWnRVemSBunrSxf93/view?usp=sharing">View Resume</a>
+</p>
