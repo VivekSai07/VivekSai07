@@ -1,6 +1,10 @@
 <h1 align="center">Vivek Sai</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Robotics+%26+AI+Engineer;Grasp+Pose+Estimation+%2B+Motion+Planning;Sim-to-Real+Manipulation+Pipelines" alt="Typing SVG"/>
+</p>
+
+<p align="center">
   <strong>Robotics &amp; AI Engineer · Stuttgart, Germany</strong><br/>
   M.Sc. Computer Science (Autonomous Systems) · University of Stuttgart
 </p>
@@ -9,17 +13,32 @@
   <a href="https://www.linkedin.com/in/vivek-sai-5b363221a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://vivek-portfolio-mocha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://drive.google.com/file/d/100ASiH-YpZPtIgrZWnRVemSBunrSxf93/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=viveksai07&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=VivekSai07&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#technical-skills">Skills</a> ·
+  <a href="#activity">Activity</a>
 </p>
 
 ---
 
-## About
+<a id="about"></a>
+
+## 🧭 About
 
 I am a Master's student in Computer Science (Autonomous Systems) at the University of Stuttgart, focused on building robotic systems that are perception-driven, reliable, and deployable in real environments. My work sits at the intersection of robot perception, motion planning, and AI — with hands-on experience taking projects from simulation through to hardware execution.
+
+- 🔭 Currently building **GAUGE** — a gated, uncertainty-aware grasping engine
+- 🌱 Currently deepening my work on sim-to-real transfer for FR3 manipulation
 
 Over the past year I have been working extensively with the **Franka Research 3 (FR3)** collaborative robot, developing a vision-guided manipulation pipeline that integrates multi-camera point-cloud fusion, Contact-GraspNet pose estimation, MuJoCo simulation, and differential IK execution. I have iterated this pipeline using a structured benchmark harness, improving grasp success rates from 38% to 90%+.
 
@@ -34,7 +53,9 @@ I aim to contribute to serious robotics engineering efforts, whether in research
 
 ---
 
-## Featured Projects
+<a id="featured-projects"></a>
+
+## 🚀 Featured Projects
 
 ### ContactPilot — Grasp-and-Place Pipeline for Franka FR3
 A production-quality pick-and-place pipeline for the Franka Panda robot that combines:
@@ -97,7 +118,9 @@ A MATLAB simulation of a multi-joint robotic arm using Denavit-Hartenberg (DH) p
 
 ---
 
-## Technical Skills
+<a id="technical-skills"></a>
+
+## 🛠️ Technical Skills
 
 | Domain | Technologies |
 |---|---|
@@ -113,19 +136,18 @@ A MATLAB simulation of a multi-joint robotic arm using Denavit-Hartenberg (DH) p
 
 ---
 
-## GitHub Stats
+<a id="activity"></a>
+
+## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekSai07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VivekSai07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <a href="https://github.com/VivekSai07/VivekSai07/actions/workflows/snake.yml">
+    <img src="https://github.com/VivekSai07/VivekSai07/actions/workflows/snake.yml/badge.svg" alt="Snake Animation Workflow"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSai07&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VivekSai07&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=VivekSai07&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
@@ -136,16 +158,16 @@ A MATLAB simulation of a multi-joint robotic arm using Denavit-Hartenberg (DH) p
 
 ## Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivekSai07/VivekSai07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivekSai07/VivekSai07/output/github-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/VivekSai07/VivekSai07/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VivekSai07/VivekSai07/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VivekSai07/VivekSai07/output/github-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/VivekSai07/VivekSai07/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
 <p align="center">
-  Open to research collaborations, full-time robotics engineering roles, and interesting open-source projects.<br/>
-  <a href="https://www.linkedin.com/in/vivek-sai-5b363221a/">Connect on LinkedIn</a> ·
-  <a href="https://drive.google.com/file/d/100ASiH-YpZPtIgrZWnRVemSBunrSxf93/view?usp=sharing">View Resume</a>
+  Open to research collaborations, full-time robotics engineering roles, and interesting open-source projects.
 </p>
